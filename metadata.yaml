@@ -1,0 +1,50 @@
+_repo: Rebecca-of-Sunnybrook-Farm_498
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, George Christopher, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: "Rebecca of Sunnybrook Farm is a classic American 1903 children's novel\
+  \ by Kate Douglas Wiggin that tells the story of Rebecca Rowena Randall and her\
+  \ two stern aunts in the fictional village of Riverboro, Maine. Rebecca's joy for\
+  \ life inspires her aunts, but she faces many trials in her young life, gaining\
+  \ wisdom and understanding. Wiggin wrote a sequel, New Chronicles of Rebecca. Eric\
+  \ Wiggin, a great nephew of the author, wrote updated versions of several Rebecca\
+  \ books, including a concluding story. The story was adapted for the theatrical\
+  \ stage, and was filmed three times, once with Shirley Temple in the title role.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Children's Literature
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '498'
+  wikidata: Q7301985
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Rebecca of Sunnybrook Farm
+url: http://www.gutenberg.org/ebooks/498
+wikipedia:
+- https://sh.wikipedia.org/wiki/Rebecca_of_Sunnybrook_Farm
+- https://ar.wikipedia.org/wiki/%D8%B1%D8%A8%D9%8A%D9%83%D8%A7_%D9%81%D8%AA%D8%A7%D8%A9_%D9%85%D8%B2%D8%B1%D8%B9%D8%A9_%D8%B5%D9%86%D9%8A_%D8%A8%D8%B1%D9%88%D9%83
+- https://en.wikipedia.org/wiki/Rebecca_of_Sunnybrook_Farm
+- https://pl.wikipedia.org/wiki/Rebeka_ze_S%C5%82onecznego_Potoku
